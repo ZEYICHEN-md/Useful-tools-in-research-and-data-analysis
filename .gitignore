@@ -1,0 +1,12 @@
+# 忽略 Python 缓存
+__pycache__/
+*.py[cod]
+
+# 忽略 macOS 系统文件
+.DS_Store
+
+# 忽略本地环境变量文件
+.env
+
+# 如果你有超大的数据集（比如超过 100MB），建议也忽略掉
+# data/
