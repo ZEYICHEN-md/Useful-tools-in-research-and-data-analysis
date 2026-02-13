@@ -1,0 +1,651 @@
+现有分类典型案例分析
+================================================================================
+
+
+================================================================================
+【other】 - 336个项目
+================================================================================
+
+1. TechmoHamster/ultimate-scavenger
+   Intent: 基于Next.js的默认模板项目
+   Desc: N/A
+   Macro: 产品与系统原型
+
+2. murphysheldon05/tsmroofpro
+   Intent: 基于AI快速构建Web应用原型
+   Desc: N/A
+   Macro: 产品与系统原型
+
+3. sotikdima1975-star/sotikdimasite
+   Intent: 个人网站或项目展示
+   Desc: N/A
+   Macro: 产品与系统原型
+
+4. DeepEyeCrypto/DeepEyeUnlocker
+   Intent: 免费解锁手机并管理固件
+   Desc: N/A
+   Macro: 产品与系统原型
+
+5. tracksend/tracksend-website
+   Intent: 构建 TrackSend 的官方网站
+   Desc: N/A
+   Macro: 产品与系统原型
+
+6. jeremysykes/aro-studio-apps-dev
+   Intent: 模块化设计系统管理平台
+   Desc: Modular Electron platform for design system management — headless Core, Desktop host, hot-swappable modules. TypeScript monorepo with ADRs.
+   Macro: 基础设施与底层组件
+
+7. instituteofexcellence2022-code/bookmylib
+   Intent: 基于Next.js模板的默认项目
+   Desc: N/A
+   Macro: 产品与系统原型
+
+8. juancarloshoyosarias-code/ASCSolarWebEnergy
+   Intent: 将Figma设计转换为可运行代码
+   Desc: N/A
+   Macro: 产品与系统原型
+
+9. FollowMarcos/avalansa26
+   Intent: 创建Next.js默认模板项目
+   Desc: N/A
+   Macro: 产品与系统原型
+
+10. jan-ninh/match3-frontend
+   Intent: 构建React + TypeScript + Vite前端模板
+   Desc: N/A
+   Macro: 基础设施与底层组件
+
+================================================================================
+【research】 - 217个项目
+================================================================================
+
+1. EDT-Pages/Proxy-List
+   Intent: 收集并维护公开代理服务器列表
+   Desc: N/A
+   Macro: 基础设施与底层组件
+
+2. qqqqqwang/LuxuryCrawler
+   Intent: 爬取奢侈品网站数据
+   Desc: N/A
+   Macro: 个人效能与辅助工具
+
+3. kshdotdev/hono-crud
+   Intent: 为Hono框架自动生成CRUD接口
+   Desc: A powerful CRUD generator for Hono with Zod validation and automatic OpenAPI documentation.
+   Macro: 基础设施与底层组件
+
+4. NAndersonBLX/cchs-coldest-spaces
+   Intent: 监控CCHS最冷空间
+   Desc: Coldest spaces monitoring for CCHS
+   Macro: 个人效能与辅助工具
+
+5. theodask/vus_mirna_pipeline
+   Intent: 分析癌症基因变异对miRNA结合的影响
+   Desc: Nextflow pipeline for VUS analysis in miRNA binding regions across multiple cancer types.
+   Macro: 基础设施与底层组件
+
+6. eledaveri/AgenticRoboArm
+   Intent: 控制机械臂的智能代理
+   Desc: N/A
+   Macro: 产品与系统原型
+
+7. mapleaiorg/maple
+   Intent: 构建可问责的多智能体系统框架
+   Desc: An implementation of Resonance-Native Architecture for Accountable Intelligent Agents
+   Macro: 基础设施与底层组件
+
+8. ytspar/devbar
+   Intent: AI代理调试网页应用的工具包
+   Desc: Development tools: DevBar and Sweetlink
+   Macro: 基础设施与底层组件
+
+9. lohsefar/webhooks-cc
+   Intent: 提供Webhook调试与测试服务
+   Desc: Webhook inspection and testing service
+   Macro: 基础设施与底层组件
+
+10. Nwachukwu1300/BICYCLEMODEL
+   Intent: 预测自行车使用量的机器学习模型
+   Desc: N/A
+   Macro: 产品与系统原型
+
+================================================================================
+【business_automation】 - 188个项目
+================================================================================
+
+1. nicking94/UA-testing
+   Intent: 重构管理系统为前后端分离架构
+   Desc: N/A
+   Macro: 产品与系统原型
+
+2. charleykwon/momgyeot
+   Intent: 为应用提供管理后台与数据分析
+   Desc: N/A
+   Macro: 产品与系统原型
+
+3. lucassynnott/AIAA-Agentic-OS
+   Intent: 通过AI代理自动化营销工作流
+   Desc: AI Agency Automation - Agentic Operating System with Railway Dashboard, automated workflows, and self-annealing capabilities
+   Macro: 产品与系统原型
+
+4. DeathTrooperr/WirespeedReports
+   Intent: 为Wirespeed安全平台生成专业报告
+   Desc: Report Generator for Wirespeed
+   Macro: 产品与系统原型
+
+5. rashiiddsr/carwash
+   Intent: 洗车店业务管理与交易处理
+   Desc: N/A
+   Macro: 产品与系统原型
+
+6. modibo-26/Aeroport
+   Intent: 机场航班与票务管理系统
+   Desc: N/A
+   Macro: 产品与系统原型
+
+7. framoralc/proyecto_Final
+   Intent: 为本地餐厅管理外卖订单
+   Desc: N/A
+   Macro: 产品与系统原型
+
+8. luosheng520qaq/smart-route-ai-gateway
+   Intent: 智能路由AI请求并管理模型
+   Desc: A modern OpenAI-compatible routing middleware with a beautiful Admin WebUI.
+   Macro: 基础设施与底层组件
+
+9. dampd21/Sajodaerim
+   Intent: 抓取特定网站订单数据并可视化
+   Desc: N/A
+   Macro: 个人效能与辅助工具
+
+10. AbdullMusawerRahmani/Book-Star-Match
+   Intent: 管理考官数据并集成Google表格
+   Desc: N/A
+   Macro: 产品与系统原型
+
+================================================================================
+【productivity】 - 170个项目
+================================================================================
+
+1. siddhartha-tech-try/TrigonCompiler-frontend
+   Intent: 在线编译器的前端界面
+   Desc: This is a online compiler.
+   Macro: 产品与系统原型
+
+2. johnkoht/arete
+   Intent: 为产品经理提供AI辅助工作空间
+   Desc: N/A
+   Macro: 产品与系统原型
+
+3. ErmalinskiMaksim/Spreadsheets-plus-plus
+   Intent: 用C++和SDL3/SFML构建电子表格应用
+   Desc: A simple and fast c++ spreadsheets application with SDL3
+   Macro: 产品与系统原型
+
+4. venkataguruprasadG/Full_Stack_AI_Enginner_Journal
+   Intent: 记录全栈AI工程师学习过程
+   Desc: N/A
+   Macro: 个人效能与辅助工具
+
+5. pradoz/sneklsp
+   Intent: 为Python开发提供Neovim语言服务器
+   Desc: Sneklang (Python) LSP
+   Macro: 基础设施与底层组件
+
+6. JingkaiTang/JingkaiTang.github.io
+   Intent: 搭建个人博客站点
+   Desc: 个人站点，发布文章、动态，分享技术、游戏与生活~
+   Macro: 个人效能与辅助工具
+
+7. MildTomato/mild-bx
+   Intent: 提升Supabase开发体验的工具
+   Desc: N/A
+   Macro: 基础设施与底层组件
+
+8. grp06/openclaw-studio
+   Intent: 管理AI代理的Web界面
+   Desc: N/A
+   Macro: 产品与系统原型
+
+9. Matt2Build/gridviewpro.com
+   Intent: 在单一窗口内同时显示多个网站
+   Desc: Monitor all markets at once! No more resizing multiple browser windows onto your screen. Transform how you work with multiple websites in ONE window, perfectly fitted into their own grid. Simply drag and drop, or paste URL. View 2-4 browser windows simultaneously in one  interface. Save and load your favorite sites into your favorite templates!
+   Macro: 个人效能与辅助工具
+
+10. worhllo/RSS-Feed-Push-Bot
+   Intent: 定时抓取RSS并推送至指定渠道
+   Desc: 一个轻量的 RSS 订阅推送脚本：定时拉取 RSS 源，将最新内容推送到 Telegram 或 Webhook，并通过本地历史记录避免重复发送。
+   Macro: 个人效能与辅助工具
+
+================================================================================
+【entertainment】 - 124个项目
+================================================================================
+
+1. JROtto5/MineWeb
+   Intent: 构建多游戏网页平台
+   Desc: N/A
+   Macro: 产品与系统原型
+
+2. Kingshot-Atlas/Kingshot-Atlas
+   Intent: 为游戏玩家提供王国数据库和匹配服务
+   Desc: Kingshot Atlas - Kingdom Database
+   Macro: 产品与系统原型
+
+3. gilymerkado/symbolo-game
+   Intent: 基于符号匹配的计时游戏
+   Desc: A fun pattern recognition game built with Angular.
+   Macro: 产品与系统原型
+
+4. anton-fedarenka/hardml-recsys-final
+   Intent: 基于用户反馈的电影推荐系统
+   Desc: N/A
+   Macro: 产品与系统原型
+
+5. paulohscwb/fractalcurves
+   Intent: 在VR/AR中可视化分形曲线
+   Desc: Fractal curves in Virtual Reality and Augmented Reality 
+   Macro: 产品与系统原型
+
+6. insang3663-netizen/gangseoshirt2
+   Intent: 展示豪华娱乐场所网站
+   Desc: N/A
+   Macro: 产品与系统原型
+
+7. cynfria/will-it-jello
+   Intent: 模拟3D果冻物理交互
+   Desc: Interactive 3D jello with shader-based wobble physics
+   Macro: 产品与系统原型
+
+8. cooptaylor1-rgb/Ryder-Cup-BattleGround
+   Intent: 管理高尔夫比赛积分与队伍
+   Desc: N/A
+   Macro: 产品与系统原型
+
+9. salmanbappi/Tsukimi
+   Intent: 在Android设备上阅读漫画
+   Desc: A high-performance, feature-rich manga reader for Android.
+   Macro: 产品与系统原型
+
+10. renfuji12/bacalhau
+   Intent: 自托管IPTV播放器支持M3U和EPG
+   Desc: 🐟 Stream live IPTV with bacalhau, a self-hosted player for NAS and Docker, featuring M3U playlist support and EPG integration for seamless viewing.
+   Macro: 产品与系统原型
+
+================================================================================
+【education】 - 119个项目
+================================================================================
+
+1. WendleyCunha/desenvolvimento
+   Intent: 学习或练习编程
+   Desc: N/A
+   Macro: 个人效能与辅助工具
+
+2. benwayland-cell/WDD130
+   Intent: 测试或学习HTML网页开发
+   Desc: N/A
+   Macro: 个人效能与辅助工具
+
+3. kdkhost/somosunn
+   Intent: 搭建在线教育平台
+   Desc: N/A
+   Macro: 产品与系统原型
+
+4. LDT9510/aoc-2015
+   Intent: 使用Rust解决Advent of Code编程挑战
+   Desc: Advent of Code challenge 2015, using Rust.
+   Macro: 个人效能与辅助工具
+
+5. abmbodj/Riven
+   Intent: 通过闪卡应用辅助学习记忆
+   Desc: N/A
+   Macro: 产品与系统原型
+
+6. getrecast/public-recast-code-examples
+   Intent: 提供统计概念代码示例
+   Desc: A public facing repository that houses code examples we use at Recast to help illustrate complex statistical concepts
+   Macro: 基础设施与底层组件
+
+7. Aman-Anas/CSC-486-P1-VisualNarrative
+   Intent: 完成课程项目作业
+   Desc: N/A
+   Macro: 产品与系统原型
+
+8. Davide-SP/code-playground
+   Intent: 前端开发基础练习与学习记录
+   Desc: N/A
+   Macro: 个人效能与辅助工具
+
+9. Suraj-kumar121K/Matplotlib
+   Intent: 学习或演示Matplotlib库
+   Desc: HII
+   Macro: 个人效能与辅助工具
+
+10. zilbersm/ZilbersteinM_Neur265
+   Intent: 存储神经数据分析课程材料
+   Desc: All notebooks and coding materials from Neur 265 Introduction to Neural Data Analysis class.
+   Macro: 个人效能与辅助工具
+
+================================================================================
+【personal】 - 98个项目
+================================================================================
+
+1. LucasMontenegroM/CatalogosMVC
+   Intent: 管理用户和书籍记录的CRUD系统
+   Desc: N/A
+   Macro: 产品与系统原型
+
+2. Fn-front/movie-app
+   Intent: 管理个人电影观看清单
+   Desc: Movie watchlist management app
+   Macro: 个人效能与辅助工具
+
+3. cherry-12345/charan-katkam-portfolio
+   Intent: 展示个人技能与项目的网站
+   Desc: N/A
+   Macro: 产品与系统原型
+
+4. LeeKyuHyeong/OurStarCraftApp
+   Intent: 管理个人资产
+   Desc: 자산관리 앱
+   Macro: 产品与系统原型
+
+5. binhadher/captains-log
+   Intent: 管理船只维护记录与文档
+   Desc: Boat maintenance and document management
+   Macro: 产品与系统原型
+
+6. keshara05/my-portfolio
+   Intent: 创建个人作品集网站
+   Desc: N/A
+   Macro: 产品与系统原型
+
+7. slavenmlinaric2910/happyhaushalt
+   Intent: 管理家庭家务的离线优先应用
+   Desc: N/A
+   Macro: 产品与系统原型
+
+8. SfishN/portfolio
+   Intent: 存放个人作品集
+   Desc: N/A
+   Macro: 个人效能与辅助工具
+
+9. nicejade/life-spent
+   Intent: 基于年龄和预期寿命计算已度过的人生比例
+   Desc: LifeSpent is a minimalist web app that shows how much of your life is already spent — based on your age, average life expectancy, and population median age. No motivation, no judgment. Just math.
+   Macro: 产品与系统原型
+
+10. Maria-mbugua/spin-savor
+   Intent: 随机生成肯尼亚风味食谱
+   Desc: N/A
+   Macro: 产品与系统原型
+
+================================================================================
+【ecommerce】 - 69个项目
+================================================================================
+
+1. ggarciaperion/santo-dilema
+   Intent: 为暗厨餐厅提供在线点餐系统
+   Desc: Dark kitchen
+   Macro: 产品与系统原型
+
+2. Marcemmanuel1/website-ecommerce
+   Intent: 基于官方模板的电商网站开发起点
+   Desc: N/A
+   Macro: 产品与系统原型
+
+3. SurfUX/Velvora
+   Intent: 提供旅游网站模板
+   Desc: N/A
+   Macro: 产品与系统原型
+
+4. Mundovapeoss/catalogo
+   Intent: 通过WhatsApp下单的简单产品目录
+   Desc: catalogo simple con pedido por WhatsApp
+   Macro: 产品与系统原型
+
+5. Mokgase/indi_coffee_co
+   Intent: 创建咖啡店网站
+   Desc: Coffee Shop Website
+   Macro: 产品与系统原型
+
+6. kimamovic21/real-estate-marketplace-sg-yt-2023
+   Intent: 在线房产租赁与买卖平台
+   Desc: Real Estate Marketplace MERN App
+   Macro: 产品与系统原型
+
+7. vitoriaferreirap/Trip_aggregation
+   Intent: 监控巴士票价并识别优惠
+   Desc: Este projeto tem como objetivo principal o aprendizado de web scraping, utilizando Java, Jsoup e uma arquitetura em camadas.
+   Macro: 产品与系统原型
+
+8. ceverett10/experience-marketplace-platform
+   Intent: 自动生成和管理体验预订网站
+   Desc: Autonomous SEO/LLM-optimised experience marketplace platform powered by Holibob API
+   Macro: 产品与系统原型
+
+9. KhothatsoS/alx-project-nexus
+   Intent: 在线销售优雅的保守风格女装
+   Desc: N/A
+   Macro: 产品与系统原型
+
+10. rishi-sit/pricehunt-api-deploy
+   Intent: 使用AI过滤电商搜索结果
+   Desc: N/A
+   Macro: 产品与系统原型
+
+================================================================================
+【fintech】 - 57个项目
+================================================================================
+
+1. jon-tompkins/jai-dashboard
+   Intent: 整合投资数据并可视化
+   Desc: N/A
+   Macro: 产品与系统原型
+
+2. po-sen/ChainTx
+   Intent: 提供多资产收款请求的HTTP服务
+   Desc: N/A
+   Macro: 基础设施与底层组件
+
+3. JaiPatel31/CS451-Capstone
+   Intent: 构建银行门户应用原型
+   Desc: N/A
+   Macro: 产品与系统原型
+
+4. GaneshPokharel-tech/Tesla-Stock-Market-Analysis-and-Prediction
+   Intent: 分析特斯拉股价并预测走势
+   Desc: End-to-end analysis of Tesla stock price data with a focus on data cleaning, exploratory analysis, feature engineering, and realistic predictive modeling for financial markets.
+   Macro: 个人效能与辅助工具
+
+5. max-de-bug/solana_web3.js_on_steroids
+   Intent: 增强Solana区块链客户端连接可靠性
+   Desc: N/A
+   Macro: 基础设施与底层组件
+
+6. VelaCore-VEC/VelaCore-dApp
+   Intent: 为中小企业提供非托管稳定币支付网关
+   Desc: VelaCore is a high-performance, non-custodial payment gateway for SMEs. This repository contains the merchant dashboard and dApp interface for real-time stablecoin settlements.
+   Macro: 产品与系统原型
+
+7. masfaiz-code/gold-price-monitor
+   Intent: 监控金价变化并自动通知
+   Desc: N/A
+   Macro: 个人效能与辅助工具
+
+8. nuha-riwaz/kindcents
+   Intent: 连接捐赠者与受助者的实时捐赠平台
+   Desc: A secure, transparent web platform enabling real-time donations between verified donors and recipients.
+   Macro: 产品与系统原型
+
+9. Secured2001/velocityx-ai
+   Intent: 模拟交易平台演示
+   Desc: N/A
+   Macro: 产品与系统原型
+
+10. wumoztw/TitanCore-Dashboard
+   Intent: 实时显示加密货币与外汇的一目均衡表分析信号
+   Desc: 一目均衡表訊號儀表板
+   Macro: 个人效能与辅助工具
+
+================================================================================
+【content_creation】 - 57个项目
+================================================================================
+
+1. Xtosea/globelynksblog
+   Intent: 基于Next.js和Sanity的博客模板
+   Desc: N/A
+   Macro: 产品与系统原型
+
+2. op7418/Video-Wrapper-Skills
+   Intent: 为访谈视频自动添加视觉特效
+   Desc: 为访谈视频添加综艺风格视觉特效的 Claude Skill。AI 分析字幕内容生成建议，用户审批后自动渲染。A Claude Skill for adding variety-show-style visual effects to interview videos. The AI analyzes subtitle content to generate suggestions
+   Macro: 产品与系统原型
+
+3. William-Pardo/tudojang
+   Intent: 运行和部署AI Studio应用
+   Desc: N/A
+   Macro: 产品与系统原型
+
+4. OscarPindaro/new-blog-design
+   Intent: 实验博客设计与开发
+   Desc: A repo where i experiment with html css and jekyll to create my blog
+   Macro: 个人效能与辅助工具
+
+5. FernandSilva/SBA
+   Intent: 运行和部署AI Studio应用
+   Desc: Silva Boxing Academy 
+   Macro: 产品与系统原型
+
+6. hrcosigntheta/travelblog-website-template
+   Intent: 提供旅行博客网站模板
+   Desc: ✈️ Create a high-performance, SEO-optimized travel blog website with this easy-to-use template built with Astro, React, and Tailwind CSS.
+   Macro: 产品与系统原型
+
+7. ssarunic/dalston
+   Intent: 自托管音频转录服务器
+   Desc: Your audio, your infrastructure, your choice of models. Containerised architecture that lets open source transcription components finally work together.
+   Macro: 基础设施与底层组件
+
+8. Ultronjnr/oversightglobal
+   Intent: 基于AI提示生成Web应用
+   Desc: N/A
+   Macro: 产品与系统原型
+
+9. meetdarji006/meet-ui
+   Intent: 提供动画化UI组件库
+   Desc: N/A
+   Macro: 基础设施与底层组件
+
+10. sosaheri/kumi-cms
+   Intent: 基于文件的内容管理系统
+   Desc: N/A
+   Macro: 基础设施与底层组件
+
+================================================================================
+【social】 - 53个项目
+================================================================================
+
+1. leanguardia/lean-back
+   Intent: 为对话应用提供后端API服务
+   Desc: leancontinuo's backend service
+   Macro: 基础设施与底层组件
+
+2. briangflett/mas-vc-chatbot
+   Intent: 基于Next.js的聊天机器人原型
+   Desc: N/A
+   Macro: 产品与系统原型
+
+3. Tobiw87/tus-radsport
+   Intent: 为自行车俱乐部创建静态网站
+   Desc: N/A
+   Macro: 产品与系统原型
+
+4. noemi-peterka/back-end-nc-news
+   Intent: 构建新闻论坛的RESTful API后端
+   Desc: N/A
+   Macro: 产品与系统原型
+
+5. yewen-jin/nc-news-backend
+   Intent: 构建类似Reddit的新闻社交后端API
+   Desc: N/A
+   Macro: 产品与系统原型
+
+6. shinshin4n4n/tube-review
+   Intent: 发现和管理YouTube频道
+   Desc: YouTube channel review and discovery platform - Find channels actively, not passively
+   Macro: 产品与系统原型
+
+7. princepols/votesure_reborn
+   Intent: 在线学生选举投票系统
+   Desc: N/A
+   Macro: 产品与系统原型
+
+8. likelion-hanseo/rep-homepage
+   Intent: 为大学社团创建官方网站
+   Desc: 멋쟁이사자처럼 한서대 대표 홈페이지
+   Macro: 产品与系统原型
+
+9. furtivegod/fastivalle_backend
+   Intent: 为移动应用提供用户认证后端服务
+   Desc: N/A
+   Macro: 产品与系统原型
+
+10. teamtwingle-sketch/TWINGLE-
+   Intent: 为特定地区用户提供约会匹配服务
+   Desc: N/A
+   Macro: 产品与系统原型
+
+================================================================================
+【health】 - 43个项目
+================================================================================
+
+1. vianadanielviana/vetacademy
+   Intent: AI驱动的兽医支持平台
+   Desc: VetAcademy - Plataforma de suporte veterinário com React, TypeScript e Supabase
+   Macro: 产品与系统原型
+
+2. npnini/ApitherapyV2
+   Intent: 辅助蜂疗师制定治疗方案
+   Desc: N/A
+   Macro: 产品与系统原型
+
+3. JonathanZul/msx-sentinel
+   Intent: 检测牡蛎组织切片中的寄生虫
+   Desc: N/A
+   Macro: 产品与系统原型
+
+4. Captain-Kanak/medi-store-app
+   Intent: 连接患者与药房的医疗市场平台
+   Desc: N/A
+   Macro: 产品与系统原型
+
+5. danyf57-maker/aurum-sanctuary
+   Intent: 提供加密的AI心理日记分析
+   Desc: 29_01_2026
+   Macro: 产品与系统原型
+
+6. lemontree1611/LoLamBenhAn
+   Intent: 为医学生提供电子病历协作编辑工具
+   Desc: Web app hỗ trợ làm – quản lý – chia sẻ bệnh án điện tử, hướng tới sinh viên y khoa cần làm bệnh án nhanh, chính xác và có thể làm việc nhóm hiệu quả.
+   Macro: 产品与系统原型
+
+7. khanhduong290409/PETCLINIC_REPR
+   Intent: 宠物诊所系统复现
+   Desc: N/A
+   Macro: 产品与系统原型
+
+8. steenezel/Anesthesie-Kortrijk
+   Intent: 为麻醉医生提供临床协议和计算工具
+   Desc: Anesthesieprotocollen, block-info en calculator voor lokale anesthesie.
+   Macro: 产品与系统原型
+
+9. geovannytorres/UniX
+   Intent: 增强胸部X光图像分析与生成
+   Desc: 🩻 Unify autoregression and diffusion methods to enhance chest X-ray understanding and generation with improved performance and fewer parameters.
+   Macro: 产品与系统原型
+
+10. TanishqAswar/MedEcos
+   Intent: 构建医疗生态系统
+   Desc: Medical Ecosystem
+   Macro: 产品与系统原型

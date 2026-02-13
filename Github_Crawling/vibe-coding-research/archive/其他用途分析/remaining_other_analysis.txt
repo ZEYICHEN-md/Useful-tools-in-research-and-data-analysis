@@ -1,0 +1,271 @@
+Remaining items after excluding templates: 202
+
+=== Keywords in remaining 'other' items ===
+  原型: 74
+  学习: 34
+  测试: 24
+  实验: 23
+  快速启动: 9
+  演示: 5
+  迁移: 4
+  脚手架: 4
+  设计系统: 3
+  组件库: 2
+  官网: 2
+  figma: 1
+  编译时: 1
+  工具库: 1
+  初始化: 1
+  monorepo: 1
+
+=== Sample remaining 'other' items ===
+1. murphysheldon05/tsmroofpro
+   Intent: 基于AI快速构建Web应用原型
+   Desc: N/A
+   Macro: 产品与系统原型
+
+2. sotikdima1975-star/sotikdimasite
+   Intent: 个人网站或项目展示
+   Desc: N/A
+   Macro: 产品与系统原型
+
+3. DeepEyeCrypto/DeepEyeUnlocker
+   Intent: 免费解锁手机并管理固件
+   Desc: N/A
+   Macro: 产品与系统原型
+
+4. tracksend/tracksend-website
+   Intent: 构建 TrackSend 的官方网站
+   Desc: N/A
+   Macro: 产品与系统原型
+
+5. jeremysykes/aro-studio-apps-dev
+   Intent: 模块化设计系统管理平台
+   Desc: Modular Electron platform for design system management — headless Core, Desktop host, hot-swappable modules. TypeScript monorepo with ADRs.
+   Macro: 基础设施与底层组件
+
+6. juancarloshoyosarias-code/ASCSolarWebEnergy
+   Intent: 将Figma设计转换为可运行代码
+   Desc: N/A
+   Macro: 产品与系统原型
+
+7. indianathe3rdKing/Clicka
+   Intent: 未知功能的Kotlin项目
+   Desc: N/A
+   Macro: 基础设施与底层组件
+
+8. OxenFxc/LXCLUA-MORECORE
+   Intent: 增强Lua引擎的安全性与扩展性
+   Desc: N/A
+   Macro: 基础设施与底层组件
+
+9. vishwajit15-git/Wanderlust
+   Intent: 项目迁移或重构
+   Desc: IN PRODUCTION
+   Macro: 基础设施与底层组件
+
+10. soenneker/soenneker.quark.gen.themes
+   Intent: 编译时生成Quark CSS文件
+   Desc: A source generator for generating Quark css files at compile time
+   Macro: 基础设施与底层组件
+
+11. RustokCMS/RusTok
+   Intent: 构建高性能无头内容管理平台
+   Desc: Headless API (GraphQL + REST) CQRS‑lite modular platform
+   Macro: 基础设施与底层组件
+
+12. unstoppableh3r0/fedinet-go
+   Intent: 实现联邦网络协议
+   Desc: N/A
+   Macro: 基础设施与底层组件
+
+13. FrontKurnianuswaruwu/sensasi-v1
+   Intent: Laravel框架的官方文档副本
+   Desc: N/A
+   Macro: 基础设施与底层组件
+
+14. engrate/eg-components
+   Intent: 提供遵循品牌规范的React组件库
+   Desc: Engrate component library
+   Macro: 基础设施与底层组件
+
+15. hngabo-lang/alu-shell
+   Intent: 提供简单的Shell脚本环境
+   Desc: N/A
+   Macro: 基础设施与底层组件
+
+16. Nikhil-Narwade/Project_1
+   Intent: 创建基础HTML项目
+   Desc: N/A
+   Macro: 个人效能与辅助工具
+
+17. ganisurna01/node-react-rbac-REVERSE-PROXY
+   Intent: 演示基于角色的前端路由权限控制
+   Desc: N/A
+   Macro: 基础设施与底层组件
+
+18. caishenhub/Caishen-Capital-Group-dashboard
+   Intent: 部署AI Studio应用
+   Desc: Dashboard
+   Macro: 产品与系统原型
+
+19. Cryptosystema/mns-terminal
+   Intent: 集成后端实时与快照传输
+   Desc: N/A
+   Macro: 基础设施与底层组件
+
+20. JJAllanLLC/goldenretriever-hair
+   Intent: 创建金毛犬网站
+   Desc: Golden Retriever website
+   Macro: 产品与系统原型
+
+21. msakiriator/transitions-rp
+   Intent: 实现状态转换动画效果
+   Desc: N/A
+   Macro: 基础设施与底层组件
+
+22. dependabot/proxy
+   Intent: 为依赖更新工具提供认证代理
+   Desc: Dependabot's HTTP proxy to authenticate requests to package registries, git servers, and the GitHub API
+   Macro: 基础设施与底层组件
+
+23. Adangomes/mydidelivery
+   Intent: 未知，仅含仓库名
+   Desc: N/A
+   Macro: 产品与系统原型
+
+24. Rafaeros/smp-web
+   Intent: 消费SMP Spring Boot API的网页
+   Desc: Next.js web page to consume smp spring boot api
+   Macro: 产品与系统原型
+
+25. jose906/netvoraFront
+   Intent: Angular前端项目脚手架
+   Desc: N/A
+   Macro: 基础设施与底层组件
+
+26. jesrielrada/MidasAndroidNativeRevamp
+   Intent: 重构Android原生应用
+   Desc: N/A
+   Macro: 产品与系统原型
+
+27. bako110/Backend-BF1
+   Intent: 构建后端服务
+   Desc: N/A
+   Macro: 基础设施与底层组件
+
+28. J0joFra/formula_rossa
+   Intent: 项目名称和README内容不足
+   Desc: N/A
+   Macro: 产品与系统原型
+
+29. fcaceres98/lanhsahn-sis
+   Intent: 生成Angular项目基础框架
+   Desc: N/A
+   Macro: 基础设施与底层组件
+
+30. ejovwogfreeman/globalprimalmarket-mobile-app
+   Intent: 创建移动应用基础框架
+   Desc: A react native mobile app
+   Macro: 产品与系统原型
+
+31. indreamer-com/app-locales
+   Intent: 管理应用本地化文件
+   Desc: N/A
+   Macro: 基础设施与底层组件
+
+32. kaaateco/p9185_p1_g1
+   Intent: 项目占位或测试用途
+   Desc: N/A
+   Macro: 基础设施与底层组件
+
+33. nfqws/nfqws-keenetic-web
+   Intent: 为路由器提供nfqws的Web管理界面
+   Desc: N/A
+   Macro: 基础设施与底层组件
+
+34. dywoq/zero
+   Intent: 构建仅实模式的x86操作系统
+   Desc: The Zero kernel and bootloader: Real mode only
+   Macro: 基础设施与底层组件
+
+35. lisbeth718/geckoverse-ui
+   Intent: 为Geckoverse项目提供共享UI组件库
+   Desc: N/A
+   Macro: 基础设施与底层组件
+
+36. Idn37/BridgeWebApp
+   Intent: 基于Base44平台构建Web应用
+   Desc: Base44 App: BRIDGE
+   Macro: 产品与系统原型
+
+37. cron-capital/cron-capital.github.io
+   Intent: 托管静态网站
+   Desc: N/A
+   Macro: 基础设施与底层组件
+
+38. pssusofficial/pssusofficial.github.io
+   Intent: 展示GitHub个人主页
+   Desc: N/A
+   Macro: 个人效能与辅助工具
+
+39. JCambras/min-demo
+   Intent: AI工作流编排演示
+   Desc: N/A
+   Macro: 基础设施与底层组件
+
+40. wirsiyy/PORTFOLIO-main
+   Intent: 展示个人作品集
+   Desc: N/A
+   Macro: 产品与系统原型
+
+41. Deadistor/Portfolio
+   Intent: 构建个人作品集展示
+   Desc: N/A
+   Macro: 产品与系统原型
+
+42. serseopl/plugin11
+   Intent: 插件开发或测试
+   Desc: d
+   Macro: 基础设施与底层组件
+
+43. rohitdevsol/m8m
+   Intent: 快速搭建Turborepo与Prisma的脚手架
+   Desc: N/A
+   Macro: 基础设施与底层组件
+
+44. ezzerman12345/addon
+   Intent: 仓库名称和README内容不足
+   Desc: N/A
+   Macro: 基础设施与底层组件
+
+45. Baxxyo/Web2
+   Intent: 创建基础网页项目
+   Desc: project web2
+   Macro: 产品与系统原型
+
+46. Dicklesworthstone/frankentui
+   Intent: 构建无闪烁、确定性的终端UI内核
+   Desc: The Most Powerful, Performant, and Stylish TUI Framework on the Planet
+   Macro: 基础设施与底层组件
+
+47. florentdeborde/fertenergie
+   Intent: 展示可再生能源集体网站
+   Desc: Site web de Ferténergie
+   Macro: 产品与系统原型
+
+48. umgap2026-cmd/UMGAP-AI
+   Intent: 项目信息不足，无法判断
+   Desc: N/A
+   Macro: 基础设施与底层组件
+
+49. rbrabson/ftcstanding
+   Intent: 管理FIRST科技挑战赛的竞赛数据
+   Desc: N/A
+   Macro: 基础设施与底层组件
+
+50. deeptho/neumo-drivers
+   Intent: 为TBS DVB卡提供增强驱动
+   Desc: Out of tree drivers for blindscan, spectrum acquistion aimed at TBS dvb cards
+   Macro: 基础设施与底层组件
+

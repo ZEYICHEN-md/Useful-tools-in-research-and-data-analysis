@@ -1,0 +1,330 @@
+从用途类型维度分析 'other' 分类 (336 items)
+============================================================
+
+
+## genuinely_other: 229 items
+
+1. TechmoHamster/ultimate-scavenger
+   Intent: 基于Next.js的默认模板项目
+   Macro: 产品与系统原型
+
+2. murphysheldon05/tsmroofpro
+   Intent: 基于AI快速构建Web应用原型
+   Macro: 产品与系统原型
+
+3. sotikdima1975-star/sotikdimasite
+   Intent: 个人网站或项目展示
+   Macro: 产品与系统原型
+
+4. tracksend/tracksend-website
+   Intent: 构建 TrackSend 的官方网站
+   Macro: 产品与系统原型
+
+5. instituteofexcellence2022-code/bookmylib
+   Intent: 基于Next.js模板的默认项目
+   Macro: 产品与系统原型
+
+6. FollowMarcos/avalansa26
+   Intent: 创建Next.js默认模板项目
+   Macro: 产品与系统原型
+
+7. jan-ninh/match3-frontend
+   Intent: 构建React + TypeScript + Vite前端模板
+   Macro: 基础设施与底层组件
+
+8. PROACTIVA-US/property-manager
+   Intent: 提供React+Vite+TypeScript基础模板
+   Macro: 基础设施与底层组件
+
+9. fncyz/QuickQueue
+   Intent: 创建Expo移动应用模板
+   Macro: 产品与系统原型
+
+10. vishwajit15-git/Wanderlust
+   Intent: 项目迁移或重构
+   Macro: 基础设施与底层组件
+
+
+## documentation_site: 27 items
+
+1. indianathe3rdKing/Clicka
+   Intent: 未知功能的Kotlin项目
+   Macro: 基础设施与底层组件
+
+2. FrontKurnianuswaruwu/sensasi-v1
+   Intent: Laravel框架的官方文档副本
+   Macro: 基础设施与底层组件
+
+3. Adangomes/mydidelivery
+   Intent: 未知，仅含仓库名
+   Macro: 产品与系统原型
+
+4. J0joFra/formula_rossa
+   Intent: 项目名称和README内容不足
+   Macro: 产品与系统原型
+
+5. hxttm/Edith-Doris_IP
+   Intent: 托管静态网页或文件
+   Macro: 基础设施与底层组件
+
+6. paroteen/parot
+   Intent: 项目信息不足，无法判断
+   Macro: 个人效能与辅助工具
+
+7. kristof-mattei/matter-hub
+   Intent: 未知，README 内容不足
+   Macro: 基础设施与底层组件
+
+8. mavenkim2/yeoubi
+   Intent: 未知项目功能
+   Macro: 基础设施与底层组件
+
+9. DevSamSheikh/Fairless-Confession
+   Intent: 未知项目功能
+   Macro: 产品与系统原型
+
+10. CaganL/Void-Bot-V2
+   Intent: 未知功能的Python机器人
+   Macro: 个人效能与辅助工具
+
+
+## system_tool: 20 items
+
+1. unstoppableh3r0/fedinet-go
+   Intent: 实现联邦网络协议
+   Macro: 基础设施与底层组件
+
+2. hngabo-lang/alu-shell
+   Intent: 提供简单的Shell脚本环境
+   Macro: 基础设施与底层组件
+
+3. dywoq/zero
+   Intent: 构建仅实模式的x86操作系统
+   Macro: 基础设施与底层组件
+
+4. Dicklesworthstone/frankentui
+   Intent: 构建无闪烁、确定性的终端UI内核
+   Macro: 基础设施与底层组件
+
+5. zeeshan-Shakeel/NestJS-SecureAuthSystem
+   Intent: 构建安全的身份验证系统
+   Macro: 基础设施与底层组件
+
+6. StephenBrooks714/zion_church
+   Intent: 管理或展示教堂相关系统
+   Macro: 产品与系统原型
+
+7. futureaspirent/backend
+   Intent: 后端系统开发
+   Macro: 产品与系统原型
+
+8. mikearnaldi/cruster
+   Intent: 构建分布式状态化实体系统框架
+   Macro: 基础设施与底层组件
+
+9. Slinet6056/arch-repo
+   Intent: 个人Arch Linux软件包仓库
+   Macro: 基础设施与底层组件
+
+10. funfix/database
+   Intent: 基于关系数据库的延迟队列实现
+   Macro: 基础设施与底层组件
+
+
+## infrastructure_devtool: 18 items
+
+1. jeremysykes/aro-studio-apps-dev
+   Intent: 模块化设计系统管理平台
+   Macro: 基础设施与底层组件
+
+2. juancarloshoyosarias-code/ASCSolarWebEnergy
+   Intent: 将Figma设计转换为可运行代码
+   Macro: 产品与系统原型
+
+3. soenneker/soenneker.quark.gen.themes
+   Intent: 编译时生成Quark CSS文件
+   Macro: 基础设施与底层组件
+
+4. engrate/eg-components
+   Intent: 提供遵循品牌规范的React组件库
+   Macro: 基础设施与底层组件
+
+5. dependabot/proxy
+   Intent: 为依赖更新工具提供认证代理
+   Macro: 基础设施与底层组件
+
+6. jose906/netvoraFront
+   Intent: Angular前端项目脚手架
+   Macro: 基础设施与底层组件
+
+7. lisbeth718/geckoverse-ui
+   Intent: 为Geckoverse项目提供共享UI组件库
+   Macro: 基础设施与底层组件
+
+8. serseopl/plugin11
+   Intent: 插件开发或测试
+   Macro: 基础设施与底层组件
+
+9. rohitdevsol/m8m
+   Intent: 快速搭建Turborepo与Prisma的脚手架
+   Macro: 基础设施与底层组件
+
+10. nowmdr/kostaryka-code
+   Intent: 为WordPress添加交互式旅行地图
+   Macro: 基础设施与底层组件
+
+
+## hardware_iot: 16 items
+
+1. DeepEyeCrypto/DeepEyeUnlocker
+   Intent: 免费解锁手机并管理固件
+   Macro: 产品与系统原型
+
+2. OxenFxc/LXCLUA-MORECORE
+   Intent: 增强Lua引擎的安全性与扩展性
+   Macro: 基础设施与底层组件
+
+3. caishenhub/Caishen-Capital-Group-dashboard
+   Intent: 部署AI Studio应用
+   Macro: 产品与系统原型
+
+4. nfqws/nfqws-keenetic-web
+   Intent: 为路由器提供nfqws的Web管理界面
+   Macro: 基础设施与底层组件
+
+5. deeptho/neumo-drivers
+   Intent: 为TBS DVB卡提供增强驱动
+   Macro: 基础设施与底层组件
+
+6. vidarbrekke/openclaw
+   Intent: 为OpenClaw用户提供会话隔离代理
+   Macro: 基础设施与底层组件
+
+7. igorkll/custom-debian-initramfs-init
+   Intent: 扩展Debian initramfs内核参数功能
+   Macro: 基础设施与底层组件
+
+8. cineup/cinerelais_modul
+   Intent: 控制影院服务器继电器模块
+   Macro: 基础设施与底层组件
+
+9. itschillipill/flutter-virtual-keyboard
+   Intent: 为Flutter应用提供自定义虚拟键盘
+   Macro: 基础设施与底层组件
+
+10. Djmon007/loipen-zeiten
+   Intent: 基于Lovable平台的AI生成项目
+   Macro: 产品与系统原型
+
+
+## unknown_unclear: 11 items
+
+1. ramikassas/RDM
+   Intent: 未知项目功能
+   Macro: 个人效能与辅助工具
+
+2. DreamerAEKer/POS
+   Intent: 未知，信息不足
+   Macro: 个人效能与辅助工具
+
+3. darkezy/ST
+   Intent: 项目信息不足，无法判断
+   Macro: 个人效能与辅助工具
+
+4. sattorovKamronbek/Lex-Project
+   Intent: 未知项目意图
+   Macro: 个人效能与辅助工具
+
+5. SergCamacho99/JavaLand-y-el-Compilador-Oscuro
+   Intent: 未知项目意图
+   Macro: 个人效能与辅助工具
+
+6. offLim4ik/fhntvvfckjnjg
+   Intent: 无明确功能或意图
+   Macro: 个人效能与辅助工具
+
+7. marufjonraxmonov3721-star/Davomad
+   Intent: 项目名称含义不明，无法确定核心意图
+   Macro: 个人效能与辅助工具
+
+8. nathanyakob19/PATHEASEE
+   Intent: 项目名称重复，意图不明
+   Macro: 个人效能与辅助工具
+
+9. 0x62656b6b657474/lg-live
+   Intent: 展示 Langthorne Gironde 内容
+   Macro: 产品与系统原型
+
+10. Nenad-cmd/ostrenje-nozeva-zagreb
+   Intent: 未知项目，仅含占位符
+   Macro: 个人效能与辅助工具
+
+
+## data_platform: 10 items
+
+1. Cryptosystema/mns-terminal
+   Intent: 集成后端实时与快照传输
+   Macro: 基础设施与底层组件
+
+2. umgap2026-cmd/UMGAP-AI
+   Intent: 项目信息不足，无法判断
+   Macro: 基础设施与底层组件
+
+3. rbrabson/ftcstanding
+   Intent: 管理FIRST科技挑战赛的竞赛数据
+   Macro: 基础设施与底层组件
+
+4. IDsuroh/inception
+   Intent: 项目名称和内容未知
+   Macro: 产品与系统原型
+
+5. zappybird/zappybird
+   Intent: 展示个人开发者简介与技术栈
+   Macro: 个人效能与辅助工具
+
+6. Vaibhav8900/wingo-logger
+   Intent: 提供日志记录功能
+   Macro: 基础设施与底层组件
+
+7. shah1398/tepo98
+   Intent: 项目名称和README内容未知
+   Macro: 个人效能与辅助工具
+
+8. jonaso220/RutaWater
+   Intent: 管理水资源分配数据
+   Macro: 基础设施与底层组件
+
+9. mahdijavid380/JAVIDSUB
+   Intent: 未知项目功能
+   Macro: 个人效能与辅助工具
+
+10. Hellinferno/journey-
+   Intent: 未知项目意图
+   Macro: 个人效能与辅助工具
+
+
+## developer_service: 3 items
+
+1. bako110/Backend-BF1
+   Intent: 构建后端服务
+   Macro: 基础设施与底层组件
+
+2. iamvasiliev143/kit_global_llc
+   Intent: 基于 Nest 和 MongoDB 的后端服务
+   Macro: 基础设施与底层组件
+
+3. superphilip/omnihub-backend
+   Intent: 后端服务开发
+   Macro: 基础设施与底层组件
+
+
+## cms_headless: 2 items
+
+1. RustokCMS/RusTok
+   Intent: 构建高性能无头内容管理平台
+   Macro: 基础设施与底层组件
+
+2. molly-pemulis/horizon-theme
+   Intent: 为网站或应用提供主题样式
+   Macro: 基础设施与底层组件
+

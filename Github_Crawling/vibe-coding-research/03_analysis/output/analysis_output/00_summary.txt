@@ -1,0 +1,12 @@
+Vibe Coding Analysis Summary
+==================================================
+
+Total Projects: 1531
+Date Range: 2026-01-28 至 2026-02-08
+Avg AI Score: 2.17/5.0
+High AI Projects: 299 (19.5%)
+
+Top 3 Scenes:
+  - other: 336
+  - research: 217
+  - business_automation: 188

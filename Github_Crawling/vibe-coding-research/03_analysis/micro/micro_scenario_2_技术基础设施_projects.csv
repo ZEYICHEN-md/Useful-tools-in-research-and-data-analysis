@@ -1,0 +1,6 @@
+项目名称,Stars,核心意图,GitHub链接
+webclaw,383,为OpenClaw提供快速Web客户端,https://github.com/ibelick/webclaw
+openclaw-studio,370,通过WebSocket管理OpenClaw代理的UI界面,https://github.com/grp06/openclaw-studio
+nono,314,为AI代理提供内核级安全沙箱,https://github.com/lukehinds/nono
+neomacs,206,用Rust重写Emacs以支持GPU加速,https://github.com/eval-exec/neomacs
+restty,180,在浏览器中实现高性能终端,https://github.com/wiedymi/restty

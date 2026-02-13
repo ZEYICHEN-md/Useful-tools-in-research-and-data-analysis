@@ -1,0 +1,9 @@
+﻿应用领域,项目数,占比,典型案例1_用途,典型案例1_名称,典型案例1_stars,典型案例1链接,典型案例1描述,典型案例2_用途,典型案例2_名称,典型案例2_stars,典型案例2链接,典型案例2描述,典型案例3_用途,典型案例3_名称,典型案例3_stars,典型案例3链接,典型案例3描述
+社交/社区,30,93.8%,社交其他,iamcheyan/Clawtter,7,https://github.com/iamcheyan/Clawtter,"为AI代理创建自主博客系统",社交网络,miguelrktdev/backend-petz,1,https://github.com/miguelrktdev/backend-petz,"构建宠物社交网络后端API",即时通讯,CharlesDFranca/nestjs-realtime-chat-backend,2,https://github.com/CharlesDFranca/nestjs-realtime-chat-backend,"构建实时聊天后端"
+设计工具,15,46.9%,设计工具其他,CharlesDFranca/nestjs-realtime-chat-backend,2,https://github.com/CharlesDFranca/nestjs-realtime-chat-backend,"构建实时聊天后端",UI/UX设计工具,briangflett/mas-vc-chatbot,0,https://github.com/briangflett/mas-vc-chatbot,"基于Next.js的聊天机器人原型",,,,,""
+网站/门户,7,21.9%,网站其他,yewen-jin/nc-news-backend,0,https://github.com/yewen-jin/nc-news-backend,"构建类似Reddit的新闻社交API",作品集展示站,likelion-hanseo/rep-homepage,0,https://github.com/likelion-hanseo/rep-homepage,"为大学社团创建展示网站",,,,,""
+教育学习,6,18.8%,教育其他,noemi-peterka/back-end-nc-news,1,https://github.com/noemi-peterka/back-end-nc-news,"构建新闻论坛的API后端",,,,,"",,,,,""
+AI/LLM工具,5,15.6%,AI聊天界面,briangflett/mas-vc-chatbot,0,https://github.com/briangflett/mas-vc-chatbot,"基于Next.js的聊天机器人原型",AI其他应用,Kompete1/Forums-App---Next-JS,0,https://github.com/Kompete1/Forums-App---Next-JS,"构建动态论坛应用",AI代理框架,iamcheyan/Clawtter,7,https://github.com/iamcheyan/Clawtter,"为AI代理创建自主博客系统"
+安全/隐私,4,12.5%,安全其他,AnonymousWall/AnonymousWallIos,0,https://github.com/AnonymousWall/AnonymousWallIos,"大学匿名社交平台iOS客户端",,,,,"",,,,,""
+企业管理,3,9.4%,企业管理其他,McGillVFS/aerohacksbot,0,https://github.com/McGillVFS/aerohacksbot,"Discord服务器成员验证",项目管理系统,koal0308/Xdest-online,1,https://github.com/koal0308/Xdest-online,"开发者协作与项目管理平台",,,,,""
+媒体/视频,3,9.4%,媒体其他,Ashu20006/Video-Call-App,0,https://github.com/Ashu20006/Video-Call-App,"实现视频通话功能",,,,,"",,,,,""

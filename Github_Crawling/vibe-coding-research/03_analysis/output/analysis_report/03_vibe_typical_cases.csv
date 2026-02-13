@@ -1,0 +1,31 @@
+微观场景,仓库名,核心意图,AI特征指数,复杂度,Stars,洞察摘要,链接
+企业商业应用,silver21217/Green-AI,利用AI优化废物转能源过程,5,5,3,该项目反映了AI与绿色科技结合的行业趋势，展示了AI在环境可持续性领域的应用潜力，同时体现了全栈开发中AI集成和实时数据处理的标准化实践。...,https://github.com/silver21217/Green-AI
+企业商业应用,davidcit646/Workflow,AI生成的人员入职辅助应用,5,4,1,该项目体现了AI辅助开发在快速构建企业级应用原型中的趋势，通过自动化生成简化了传统人力资源流程的初始开发阶段。...,https://github.com/davidcit646/Workflow
+企业商业应用,vlat247/quuint,基于Next.js的SaaS B2B启动项目,5,2,1,该项目反映了AI辅助开发工具（如Vercel模板）降低SaaS启动门槛的趋势，使开发者能快速构建原型，但实际业务逻辑可能尚未深入实现。...,https://github.com/vlat247/quuint
+企业商业应用,Marcemmanuel1/website-ecommerce,基于官方模板的电商网站原型,5,2,0,反映了开发者利用AI原生工具快速生成电商原型，降低产品验证门槛的趋势。...,https://github.com/Marcemmanuel1/website-ecommerce
+企业商业应用,Mokgase/indi_coffee_co,咖啡店网站模板,5,2,0,该项目反映了使用AI生成工具快速构建商业网站原型的趋势，降低了小型企业或初创项目的开发门槛。...,https://github.com/Mokgase/indi_coffee_co
+个人生活,gruks/portfolio,展示个人作品集网站,5,2,1,该项目反映了开发者利用标准化模板（如Next.js）快速构建个人品牌展示工具的趋势，体现了低代码和AI辅助开发在个人项目中的普及。...,https://github.com/gruks/portfolio
+个人生活,AntoniBLopez/my-reading-shelf,管理个人阅读清单和进度,5,2,1,该项目反映了AI辅助开发工具（如Lovable）如何降低个人应用开发门槛，使非专业开发者能快速构建定制化工具，推动软件开发的民主化趋势。...,https://github.com/AntoniBLopez/my-reading-shelf
+个人生活,JJAllanLLC/goldenretriever-hair,基于Next.js模板的网站项目,5,2,0,该项目反映了AI辅助开发工具（如Vercel AI模板）降低了前端项目启动门槛，使开发者能快速生成标准化项目结构，但个性化定制程度较低。...,https://github.com/JJAllanLLC/goldenretriever-hair
+个人生活,fahad4787/FInance-Management,基于React+Vite模板的个人财务管理,5,2,0,反映了开发者利用AI生成的标准技术栈模板快速启动个人项目验证的趋势，体现了低代码/模板化开发在个人应用场景中的普及。...,https://github.com/fahad4787/FInance-Management
+个人生活,KatieKatieXu/katexu-website,创建个人作品集网站,5,2,0,该项目反映了个人开发者利用 AI 辅助工具快速构建个人品牌网站的趋势，降低了前端开发的入门门槛。...,https://github.com/KatieKatieXu/katexu-website
+教育学习,abmbodj/Riven,通过闪卡应用辅助学习记忆,5,5,0,该项目展示了AI prompt engineering已能生成具备完整前后端架构、数据库集成和离线功能的复杂应用，反映了低代码/无代码开发向全栈系统构建的演进趋势。...,https://github.com/abmbodj/Riven
+教育学习,Nati-123/intelligent-textbook-ee2301,AI生成数字系统设计交互式教材,5,4,0,该项目反映了AI在教育内容生成领域的应用趋势，通过AI辅助创建大规模、结构化的学习材料，结合交互式模拟提升学习体验，体现了AI在自动化教育内容生产中的潜力。...,https://github.com/Nati-123/intelligent-textbook-ee2301
+教育学习,satyamprajapati4736-byte/skillshift-website,AI驱动的技能路线图生成,5,3,0,该项目反映了AI工具（如Google AI Studio）降低应用开发门槛的趋势，使开发者能快速构建AI驱动的教育产品原型，加速从创意到部署的流程。...,https://github.com/satyamprajapati4736-byte/skillshift-website
+教育学习,xurshidbahromov/promax-education-center,创建教育中心网站原型,5,2,0,该项目反映了开发者利用AI辅助工具快速生成教育类网站原型的趋势，体现了低代码或无代码开发在教育技术领域的普及，以加速产品验证和迭代。...,https://github.com/xurshidbahromov/promax-education-center
+教育学习,somahargitai/somas-german-practice-app,练习德语动词过去式,3,3,0,该项目反映了教育科技向轻量化、移动优先的PWA应用发展的趋势，结合现代前端框架（Next.js、React）快速构建交互式学习工具。...,https://github.com/somahargitai/somas-german-practice-app
+娱乐媒体,idkWhatToNameMyselfAs/manga-reader,基于Next.js的漫画阅读器,5,2,0,该项目反映了开发者利用AI辅助快速生成原型以探索个人兴趣项目的趋势，体现了AI工具在降低技术门槛和加速创意实现方面的作用。...,https://github.com/idkWhatToNameMyselfAs/manga-reader
+娱乐媒体,abdualalah1/ChaosMath,提供娱乐性数学函数模块,5,2,0,该项目反映了开发者利用AI快速生成趣味性、无实际用途的软件原型，以探索创意表达和娱乐目的的趋势，体现了AI工具在降低编程门槛和促进实验性项目方面的作用。...,https://github.com/abdualalah1/ChaosMath
+娱乐媒体,Mo14745646/HeartMuLa_ComfyUI,AI生成音乐的桌面应用,5,3,0,该项目反映了AI生成内容（AIGC）从图像向音频领域扩展的趋势，以及开发者通过构建桌面应用降低AI使用门槛的尝试。...,https://github.com/Mo14745646/HeartMuLa_ComfyUI
+娱乐媒体,madmax983/scale,构建AI驱动的4X太空模拟游戏,5,5,0,该项目体现了AI原生开发在复杂游戏系统构建中的实践，通过AI代理协作实现从底层模拟到上层叙事的全栈开发，反映了游戏开发向自动化、智能化工作流的演进趋势。...,https://github.com/madmax983/scale
+娱乐媒体,lucilaprieto8/cosquin-schedule,展示科斯金音乐节日程,5,2,0,该项目反映了开发者利用AI辅助快速构建特定主题的Web应用原型，以验证创意或满足个人兴趣，体现了AI降低开发门槛、加速原型迭代的趋势。...,https://github.com/lucilaprieto8/cosquin-schedule
+健康医疗,Nathishwar-prog/Blood_Bank_Management_system,AI驱动的血液库存管理系统,5,4,2,该项目反映了AI在医疗健康领域快速原型开发的趋势，结合了AI Studio等低代码平台，加速了专业应用的构建和部署。...,https://github.com/Nathishwar-prog/Blood_Bank_Management_system
+健康医疗,vianadanielviana/vetacademy,AI驱动的兽医支持平台,5,4,0,该项目反映了AI在垂直行业（如兽医）中快速原型化和应用落地的趋势，结合React、TypeScript和Supabase等现代技术栈，展示了低代码AI工具如何加速专业服务平台的开发。...,https://github.com/vianadanielviana/vetacademy
+健康医疗,geovannytorres/UniX,增强胸部X光图像分析与生成,5,4,0,该项目反映了AI在医疗影像领域的应用趋势，通过统一自回归和扩散方法，以更少参数实现性能提升，体现了轻量化AI模型在专业医疗场景中的落地探索。...,https://github.com/geovannytorres/UniX
+健康医疗,isilionisilme/veterinary-medical-records,兽医医疗记录结构化提取与分析,5,4,0,该项目反映了AI在医疗文档处理领域的应用趋势，通过结构化提取和标准化分析，提升兽医保险理赔效率，同时注重在敏感领域的可追溯性和安全性设计。...,https://github.com/isilionisilme/veterinary-medical-records
+健康医疗,Greenlightfitness/greenlight-fitness-app,AI驱动的健身教练应用,5,3,0,该项目反映了AI原生应用在垂直健康领域的快速原型化趋势，结合PWA技术降低开发门槛，推动个性化健身服务的普及。...,https://github.com/Greenlightfitness/greenlight-fitness-app
+社交社区,iamcheyan/Clawtter,为AI代理创建自主博客系统,5,5,7,该项目反映了AI代理从工具向数字生命体演进的趋势，通过情感系统、社交网络和自主内容生成，探索AI作为社交参与者的新形态。...,https://github.com/iamcheyan/Clawtter
+社交社区,briangflett/mas-vc-chatbot,基于Next.js的聊天机器人原型,5,2,0,该项目反映了AI聊天机器人快速原型开发的趋势，利用Next.js等现代框架简化前端构建，加速产品验证和迭代。...,https://github.com/briangflett/mas-vc-chatbot
+社交社区,synapseSRC/synapseDevFork,构建跨平台社交应用,3,4,0,该项目反映了现代应用开发中Kotlin Multiplatform与Supabase后端即服务结合的微趋势，旨在通过单一代码库实现原生性能的跨平台部署。...,https://github.com/synapseSRC/synapseDevFork
+社交社区,Maahi-0/Campus-Connect,校园俱乐部与活动集中通知平台,3,4,0,该项目反映了教育机构数字化转型中，对集中化、可验证的社区沟通工具的需求，利用现代全栈技术栈快速构建原型以解决信息碎片化问题。...,https://github.com/Maahi-0/Campus-Connect
+社交社区,Kompete1/Forums-App---Next-JS,构建动态论坛应用,3,4,0,反映了现代Web开发中全栈框架（Next.js）与云服务（Vercel、Supabase）快速集成构建社交产品的趋势，以及AI辅助开发流程的规范化应用。...,https://github.com/Kompete1/Forums-App---Next-JS
